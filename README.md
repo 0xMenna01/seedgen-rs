@@ -23,4 +23,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
